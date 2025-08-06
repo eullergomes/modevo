@@ -48,10 +48,8 @@ const SignInForm = () => {
     <>
       <Card>
         <CardHeader>
-          <CardTitle>Criar conta</CardTitle>
-          <CardDescription>
-            Crie sua conta para começar a usar a plataforma
-          </CardDescription>
+          <CardTitle>Entrar</CardTitle>
+          <CardDescription>Entre na sua conta para continuar.</CardDescription>
         </CardHeader>
         <Form {...form}>
           <form onSubmit={form.handleSubmit(onSubmit)} className="space-y-8">

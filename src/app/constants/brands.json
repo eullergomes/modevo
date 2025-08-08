@@ -1,0 +1,39 @@
+{
+  "brands": [
+    {
+      "id": 1,
+      "nome": "Nike",
+      "imageUrl": "/brands/icon-nike.svg"
+    },
+    {
+      "id": 2,
+      "nome": "Adidas",
+      "imageUrl": "/brands/icon-adidas.svg"
+    },
+    {
+      "id": 3,
+      "nome": "Puma",
+      "imageUrl": "/brands/icon-puma.svg"
+    },
+    {
+      "id": 4,
+      "nome": "New Balance",
+      "imageUrl": "/brands/icon-newbalance.svg"
+    },
+    {
+      "id": 5,
+      "nome": "Converse",
+      "imageUrl": "/brands/icon-converse.svg"
+    },
+    {
+      "id": 6,
+      "nome": "Polo",
+      "imageUrl": "/brands/img-polo.png"
+    },
+    {
+      "id": 7,
+      "nome": "Zara",
+      "imageUrl": "/brands/logo-zara.svg"
+    }
+  ]
+}
